@@ -5,7 +5,7 @@ A fully functional, responsive health monitoring web application built entirely 
 This project was built to demonstrate core frontend engineering skills, including DOM manipulation, state management, client-side routing, and data visualization.
 
 ## 🚀 Live Demo
-👉 **[Click here to view the Live Demo](INSERT_YOUR_GITHUB_PAGES_LINK_HERE)**
+👉 **[Click here to view the Live Demo](https://kgosana950.github.io/hearttrace-patient-portal/)**
 
 ## ✨ Features
 - **User Authentication:** Simulated Login, Account Creation, and Forgot Password flows.
